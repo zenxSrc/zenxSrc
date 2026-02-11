@@ -1,11 +1,4 @@
-<div align="center">
-  <img src="https://pin.it/7MaXeNt2o" width="100%" height="300" style="object-fit:cover;" />
-</div>
 
-<h1 align="center">
-  SYSTEM.INIT > Welcome to 
-  <a href="https://github.com/humlink-dev" target="_blank">humlink-dev</a>_
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Automation+Engineer;AI+Systems+Integrator;Data+Scraping+Specialist" />
