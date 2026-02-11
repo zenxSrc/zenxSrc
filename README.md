@@ -7,19 +7,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, Go, Rust  
-- **Frontend:** React, Next.js, TailwindCSS  
-- **Backend:** Node.js, Express, FastAPI, GraphQL  
-- **Databases:** PostgreSQL, MongoDB, Redis  
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, GitHub Actions  
-- **Other Tools:** Git, VS Code, Linux, REST APIs  
-
----
-
-## 📈 GitHub Stats
-![Humlink-Dev's GitHub stats](![Streak](https://github-readme-streak-stats.herokuapp.com/?user=humlink-dev&theme=radical))
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humlink-dev&layout=compact&theme=radical)
+- **Languages:** C, C++, Java, Python    
+- **Other Tools:** Git, Visual Studio Code, Intellij Tools, Notion. 
 
 ---
 
