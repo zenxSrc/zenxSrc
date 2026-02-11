@@ -1,5 +1,5 @@
 
-# Hi there 👋 I'm Humlink-Dev
+# Hi there 👋 I'm Dip Saha
 
 🚀 Passionate about building scalable, efficient, and modern software solutions.  
 💻 Exploring cutting-edge technologies, open-source contributions, and creative problem-solving.  
@@ -21,13 +21,6 @@
 ![Humlink-Dev's GitHub stats](![Streak](https://github-readme-streak-stats.herokuapp.com/?user=humlink-dev&theme=radical))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humlink-dev&layout=compact&theme=radical)
-
----
-
-## 🌟 Featured Projects
-- 🔹 **Project A** – Scalable microservices architecture with Kubernetes  
-- 🔹 **Project B** – Real-time chat application using WebSockets  
-- 🔹 **Project C** – AI-powered recommendation system  
 
 ---
 
