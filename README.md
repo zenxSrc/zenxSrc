@@ -1,67 +1,69 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Automation+Engineer;AI+Systems+Integrator;Data+Scraping+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=00FF9D&center=true&vCenter=true&width=480&lines=Hey%2C+I'm+humlink-dev;Learning+Full+Stack+Development;Playing+with+Automation+%26+AI;Building+cool+stuff+along+the+way" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/0sR4JqG3z6IAAAAC/cyberpunk-hacker.gif" width="380" alt="Cyberpunk hacker typing animation" />
+  <img src="https://i.pinimg.com/originals/aa/2b/8a/aa2b8aa6bb94a8f974f9ddfaff3052ff.gif" width="360" alt="Green code hacker typing animation" />
 </p>
 
 <div align="center">
-  <sub><code>while (alive) { build(); automate(); integrate_ai(); optimize(); }</code></sub>
+  <sub><code>console.log("Learning → Building → Breaking → Fixing → Repeat")</code></sub>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
   <a href="https://github.com/humlink-dev">
-    <img src="https://img.shields.io/github/followers/humlink-dev?color=00FF9D&logo=github&style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/humlink-dev?color=00FF9D&logo=github&style=social" alt="GitHub followers" />
   </a>
 </div>
 
 ---
 
-### 🛠 Tech Arsenal
+### 🛠 What I'm Working With (Beginner → Intermediate)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,python,fastapi,mongodb,mysql,postgres,redis,tensorflow,pytorch,opencv,git,github,docker,linux,vscode&perline=7" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python&perline=6" alt="Tech stack icons" />
 </p>
 
-**Focused On**  
-- Scalable full-stack (React/Next.js + Node/Python)  
-- High-speed automation & scraping engines  
-- AI model integration + deployment (PyTorch / TF)  
-- Secure, performant backend systems  
+- **Frontend**: HTML, CSS, JavaScript, React basics  
+- **Backend**: Node.js, Express, MongoDB  
+- **Tools**: Git/GitHub, VS Code  
+- **Also playing**: Python (for automation & small AI experiments)  
+
+Right now it's mostly web apps + scraping bots + messing around with AI tools & APIs.
 
 ---
 
-### 🚀 Current Orbit
+### 🎯 Where I'm At
 
 - 🎓 BCA + Mathematics (Class of 2028)  
-- 🔬 Engineering production automation & AI pipelines  
-- 🌌 Targeting MCA in High-Performance Computing & Intelligent Systems  
+- 🔧 Building small projects & learning full-stack step by step  
+- 🤖 Exploring automation scripts & free AI stuff (ChatGPT, local models, APIs)  
+- 🚀 Dream: Make useful tools that save time  
 
 ---
 
-### 🔗 Connect
+### 🔗 Let's Talk
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <span>&nbsp;&nbsp;</span>
+  &nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-📧-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <span>&nbsp;&nbsp;</span>
+  &nbsp;&nbsp;
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
-<br />
+<br/>
 
 <p align="center">
-  <img src="https://media.tenor.com/5vH4p3d0qAIAAAAC/matrix-code-rain.gif" width="320" alt="Matrix digital rain" />
+  <img src="https://i.pinimg.com/originals/96/74/a3/9674a3ff21e02af82daa565e5773fa56.gif" width="320" alt="Green matrix binary rain" />
   <br/>
-  <sub>Engineering the future — one system at a time.</sub>
+  <sub>Learning code one line at a time 🌱</sub>
 </p>
