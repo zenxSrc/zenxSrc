@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C++, Java, Python    
+- **Languages:** C++, Python    
 - **Other Tools:** Git, Visual Studio Code, Intellij Tools, Notion. 
 
 ---
