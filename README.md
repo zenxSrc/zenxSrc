@@ -15,5 +15,5 @@
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/humlink) 
 - 🐦 [Twitter](https://x.com/zenxSrc)
-- ✉️ zenxsrc@zohomail.in
+- ✉️ dip9959@outlook.com
 
