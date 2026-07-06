@@ -7,8 +7,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C, C++, JAVA, Python, SQL, HTML, CSS, JS, Flask.
-- **Other Tools:** Git, Visual Studio Code, Intellij Tools, Notion. 
+- **Languages:** Soon!!
+- **Other Tools:** Soon!
 
 ---
 
